@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+/* 全局日期输入框样式 - 确保英文格式 */
+input[type="date"] {
+  color-scheme: light;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+input[type="date"]::-webkit-datetime-edit-text,
+input[type="date"]::-webkit-datetime-edit-month-field,
+input[type="date"]::-webkit-datetime-edit-day-field,
+input[type="date"]::-webkit-datetime-edit-year-field {
+  color: #374151;
+  font-family: inherit;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  color: #6b7280;
+  opacity: 1;
+  cursor: pointer;
+}
+
+/* 确保所有页面都使用英文语言环境 */
+html {
+  lang: en;
+}

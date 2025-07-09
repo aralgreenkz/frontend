@@ -1,0 +1,306 @@
+[
+  {
+    "date": "2025-05-15",
+    "powerConsumption": 12.5,
+    "drinkingWater": 150,
+    "irrigationWater": 800,
+    "electricityPrice": 25,
+    "timestamp": "2025-05-15T10:30:00.000Z"
+  },
+  {
+    "date": "2025-05-16",
+    "powerConsumption": 14.2,
+    "drinkingWater": 165,
+    "irrigationWater": 750,
+    "electricityPrice": 25,
+    "timestamp": "2025-05-16T09:15:00.000Z"
+  },
+  {
+    "date": "2025-05-17",
+    "powerConsumption": 11.8,
+    "drinkingWater": 140,
+    "irrigationWater": 820,
+    "electricityPrice": 25,
+    "timestamp": "2025-05-17T11:45:00.000Z"
+  },
+  {
+    "date": "2025-05-18",
+    "powerConsumption": 15.6,
+    "drinkingWater": 180,
+    "irrigationWater": 900,
+    "electricityPrice": 26.5,
+    "timestamp": "2025-05-18T08:20:00.000Z"
+  },
+  {
+    "date": "2025-05-19",
+    "powerConsumption": 13.3,
+    "drinkingWater": 155,
+    "irrigationWater": 780,
+    "electricityPrice": 26.5,
+    "timestamp": "2025-05-19T12:10:00.000Z"
+  },
+  {
+    "date": "2025-05-20",
+    "powerConsumption": 15.3,
+    "drinkingWater": 175,
+    "irrigationWater": 800,
+    "electricityPrice": 26.5,
+    "timestamp": "2025-05-20T04:38:22.045Z"
+  },
+  {
+    "date": "2025-05-21",
+    "powerConsumption": 12.9,
+    "drinkingWater": 160,
+    "irrigationWater": 830,
+    "electricityPrice": 26.5,
+    "timestamp": "2025-05-21T09:15:00.000Z"
+  },
+  {
+    "date": "2025-05-22",
+    "powerConsumption": 14.7,
+    "drinkingWater": 170,
+    "irrigationWater": 760,
+    "electricityPrice": 27,
+    "timestamp": "2025-05-22T10:20:00.000Z"
+  },
+  {
+    "date": "2025-05-23",
+    "powerConsumption": 13.8,
+    "drinkingWater": 145,
+    "irrigationWater": 810,
+    "electricityPrice": 27,
+    "timestamp": "2025-05-23T11:30:00.000Z"
+  },
+  {
+    "date": "2025-05-24",
+    "powerConsumption": 16.2,
+    "drinkingWater": 185,
+    "irrigationWater": 920,
+    "electricityPrice": 27,
+    "timestamp": "2025-05-24T08:45:00.000Z"
+  },
+  {
+    "date": "2025-05-25",
+    "powerConsumption": 11.6,
+    "drinkingWater": 135,
+    "irrigationWater": 740,
+    "electricityPrice": 27.5,
+    "timestamp": "2025-05-25T12:00:00.000Z"
+  },
+  {
+    "date": "2025-05-26",
+    "powerConsumption": 15.1,
+    "drinkingWater": 172,
+    "irrigationWater": 880,
+    "electricityPrice": 27.5,
+    "timestamp": "2025-05-26T09:30:00.000Z"
+  },
+  {
+    "date": "2025-05-27",
+    "powerConsumption": 13.4,
+    "drinkingWater": 158,
+    "irrigationWater": 795,
+    "electricityPrice": 27.5,
+    "timestamp": "2025-05-27T10:45:00.000Z"
+  },
+  {
+    "date": "2025-05-28",
+    "powerConsumption": 14.9,
+    "drinkingWater": 168,
+    "irrigationWater": 850,
+    "electricityPrice": 28,
+    "timestamp": "2025-05-28T11:15:00.000Z"
+  },
+  {
+    "date": "2025-05-29",
+    "powerConsumption": 12.3,
+    "drinkingWater": 142,
+    "irrigationWater": 720,
+    "electricityPrice": 28,
+    "timestamp": "2025-05-29T08:30:00.000Z"
+  },
+  {
+    "date": "2025-05-30",
+    "powerConsumption": 15.8,
+    "drinkingWater": 178,
+    "irrigationWater": 900,
+    "electricityPrice": 28,
+    "timestamp": "2025-05-30T09:00:00.000Z"
+  },
+  {
+    "date": "2025-05-31",
+    "powerConsumption": 13.7,
+    "drinkingWater": 164,
+    "irrigationWater": 815,
+    "electricityPrice": 28.5,
+    "timestamp": "2025-05-31T10:15:00.000Z"
+  },
+  {
+    "date": "2025-06-01",
+    "powerConsumption": 14.5,
+    "drinkingWater": 167,
+    "irrigationWater": 835,
+    "electricityPrice": 28.5,
+    "timestamp": "2025-06-01T11:00:00.000Z"
+  },
+  {
+    "date": "2025-06-02",
+    "powerConsumption": 12.8,
+    "drinkingWater": 152,
+    "irrigationWater": 760,
+    "electricityPrice": 28.5,
+    "timestamp": "2025-06-02T09:30:00.000Z"
+  },
+  {
+    "date": "2025-06-03",
+    "powerConsumption": 15.2,
+    "drinkingWater": 174,
+    "irrigationWater": 870,
+    "electricityPrice": 29,
+    "timestamp": "2025-06-03T10:45:00.000Z"
+  },
+  {
+    "date": "2025-06-04",
+    "powerConsumption": 13.9,
+    "drinkingWater": 161,
+    "irrigationWater": 795,
+    "electricityPrice": 29,
+    "timestamp": "2025-06-04T08:20:00.000Z"
+  },
+  {
+    "date": "2025-06-05",
+    "powerConsumption": 14.1,
+    "drinkingWater": 166,
+    "irrigationWater": 820,
+    "electricityPrice": 29,
+    "timestamp": "2025-06-05T11:15:00.000Z"
+  },
+  {
+    "date": "2025-06-06",
+    "powerConsumption": 11.9,
+    "drinkingWater": 145,
+    "irrigationWater": 740,
+    "electricityPrice": 29.5,
+    "timestamp": "2025-06-06T09:00:00.000Z"
+  },
+  {
+    "date": "2025-06-07",
+    "powerConsumption": 16.3,
+    "drinkingWater": 188,
+    "irrigationWater": 930,
+    "electricityPrice": 29.5,
+    "timestamp": "2025-06-07T10:30:00.000Z"
+  },
+  {
+    "date": "2025-06-08",
+    "powerConsumption": 13.6,
+    "drinkingWater": 159,
+    "irrigationWater": 780,
+    "electricityPrice": 29.5,
+    "timestamp": "2025-06-08T12:00:00.000Z"
+  },
+  {
+    "date": "2025-06-09",
+    "powerConsumption": 15.7,
+    "drinkingWater": 181,
+    "irrigationWater": 895,
+    "electricityPrice": 30,
+    "timestamp": "2025-06-09T08:45:00.000Z"
+  },
+  {
+    "date": "2025-06-10",
+    "powerConsumption": 12.4,
+    "drinkingWater": 148,
+    "irrigationWater": 725,
+    "electricityPrice": 30,
+    "timestamp": "2025-06-10T11:30:00.000Z"
+  },
+  {
+    "date": "2025-06-11",
+    "powerConsumption": 14.8,
+    "drinkingWater": 172,
+    "irrigationWater": 850,
+    "electricityPrice": 30,
+    "timestamp": "2025-06-11T09:15:00.000Z"
+  },
+  {
+    "date": "2025-06-12",
+    "powerConsumption": 13.2,
+    "drinkingWater": 156,
+    "irrigationWater": 775,
+    "electricityPrice": 30.5,
+    "timestamp": "2025-06-12T10:00:00.000Z"
+  },
+  {
+    "date": "2025-06-13",
+    "powerConsumption": 15.9,
+    "drinkingWater": 183,
+    "irrigationWater": 910,
+    "electricityPrice": 30.5,
+    "timestamp": "2025-06-13T08:30:00.000Z"
+  },
+  {
+    "date": "2025-06-14",
+    "powerConsumption": 11.7,
+    "drinkingWater": 141,
+    "irrigationWater": 735,
+    "electricityPrice": 30.5,
+    "timestamp": "2025-06-14T12:15:00.000Z"
+  },
+  {
+    "date": "2025-06-15",
+    "powerConsumption": 14.6,
+    "drinkingWater": 169,
+    "irrigationWater": 825,
+    "electricityPrice": 31,
+    "timestamp": "2025-06-15T09:45:00.000Z"
+  },
+  {
+    "date": "2025-06-16",
+    "powerConsumption": 13.5,
+    "drinkingWater": 162,
+    "irrigationWater": 790,
+    "electricityPrice": 31,
+    "timestamp": "2025-06-16T10:30:00.000Z"
+  },
+  {
+    "date": "2025-06-17",
+    "powerConsumption": 16.1,
+    "drinkingWater": 186,
+    "irrigationWater": 920,
+    "electricityPrice": 31,
+    "timestamp": "2025-06-17T08:00:00.000Z"
+  },
+  {
+    "date": "2025-06-18",
+    "powerConsumption": 12.6,
+    "drinkingWater": 151,
+    "irrigationWater": 755,
+    "electricityPrice": 31.5,
+    "timestamp": "2025-06-18T11:45:00.000Z"
+  },
+  {
+    "date": "2025-06-19",
+    "powerConsumption": 15.4,
+    "drinkingWater": 176,
+    "irrigationWater": 885,
+    "electricityPrice": 31.5,
+    "timestamp": "2025-06-19T09:20:00.000Z"
+  },
+  {
+    "date": "2025-06-20",
+    "powerConsumption": 14.3,
+    "drinkingWater": 165,
+    "irrigationWater": 805,
+    "electricityPrice": 31.5,
+    "timestamp": "2025-06-20T10:10:00.000Z"
+  },
+  {
+    "date": "2025-06-21",
+    "powerConsumption": 13.1,
+    "drinkingWater": 157,
+    "irrigationWater": 770,
+    "electricityPrice": 32,
+    "timestamp": "2025-06-21T08:50:00.000Z"
+  }
+]
