@@ -1,7 +1,7 @@
 // 认证相关工具函数
 
 // API基础URL - 固定使用生产环境地址
-const API_BASE_URL = 'https://ecometrics-backend-production.up.railway.app/api'
+const API_BASE_URL = 'https://backend-production-f7d0e.up.railway.app/api'
 
 /**
  * 检查用户是否已登录
