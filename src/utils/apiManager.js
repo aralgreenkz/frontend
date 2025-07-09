@@ -4,7 +4,7 @@ import { getAuthHeaders } from './auth.js'
 class ApiManager {
   constructor() {
     // 固定使用生产环境API地址
-    this.baseURL = 'https://ecometrics-backend-production.up.railway.app/api'
+    this.baseURL = 'https://backend-production-f7d0e.up.railway.app/api'
     
     console.log('API Base URL:', this.baseURL)
   }
